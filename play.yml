@@ -11,4 +11,4 @@
     become: yes
     tasks: 
      -  name: install docker and java
-        script: slave.sh 
+        script: slave.sh
